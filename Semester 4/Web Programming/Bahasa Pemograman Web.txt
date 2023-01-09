@@ -1,0 +1,35 @@
+Bahasa Pemograman Web terdiri dari beberapa unsur bahasa.
+
+Terdapat 5 bahasa utama yang bisa digunakan dalam membuat sebuah website, dimana masing-masing bahasa memiliki perannya sendiri :
+- HTML
+- CSS
+- JavaScript
+- PHP
+- SQL
+
+1. HTML (Hypertext Markup Language)
+
+   Bahasa markup utama yang digunakan untuk menampilkan halaman web pada internet.
+   Berperan sebagai pembentuk struktur halaman website yang menempatkan setiap elemen
+   website sesuai layout yang diinginkan. Disimpan dengan ekstensi file .html
+
+2. CSS (Cascading Style Sheets)
+
+   Sebagai pembentuk desain dari website dengan mengatur setiap elemen HTML agar 
+   tampil menarik pada browser. Disimpan dengan ekstensi file .css
+
+3. JavaScript
+
+   Berperan sebagai bahasa yang memproses data pada sisi client serta dapat memanipulasi HTML dan CSS secara dinamis.
+   Disimpan dengan ekstensi file .js
+
+4. PHP (Hypertext Preprocessor)
+
+   Berperan sebagai pemroses data pada sisi server sesuai yang diminta oleh client menjadi informasi yang siap ditampilkan,
+   dan sebagai penghubung aplikasi web dengan database. Disimpan dengan ekstensi file .php
+
+5. SQL (Structured Query Language)
+
+   Berperan sebagai bahasa yang mengatur transaksi data antara aplikasi dengan database sebagai tempat penyimpanan data.
+   Database yang biasa digunakan : MySQL, Oracle, SQL Server.
+   Disimpan ddengan ekstensi file .sql
