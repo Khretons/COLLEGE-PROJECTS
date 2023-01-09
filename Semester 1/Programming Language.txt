@@ -1,0 +1,2 @@
+Bahasa Pemograman yang digunakan di semester 1 :
+- C++
